@@ -1,10 +1,13 @@
 Build
 -----
+```
 docker build -t factorio --build-arg FACTORIO_VERSION=<version> .
+```
 
 Versions
 --------
 stable: https://www.factorio.com/download-headless/stable
+
 experimental: https://www.factorio.com/download-headless/experimental
 
 Run
